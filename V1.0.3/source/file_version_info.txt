@@ -1,0 +1,27 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 3, 0),
+    prodvers=(1, 0, 3, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable(
+        '080404B0',
+        [StringStruct('CompanyName', 'BLE MIDI Debugger Project'),
+         StringStruct('FileDescription', 'BLE MIDI Debugger for Windows'),
+         StringStruct('FileVersion', '1.0.3.0'),
+         StringStruct('InternalName', 'BLE-MIDI-Debugger'),
+         StringStruct('LegalCopyright', 'Copyright (c) 2026 BLE MIDI Debugger contributors'),
+         StringStruct('OriginalFilename', 'BLE-MIDI-Debugger-V1.0.3.exe'),
+         StringStruct('ProductName', 'BLE MIDI Debugger'),
+         StringStruct('ProductVersion', '1.0.3.0')])
+    ]),
+    VarFileInfo([VarStruct('Translation', [2052, 1200])])
+  ]
+)
